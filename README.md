@@ -1,5 +1,4 @@
 <h1 align="center">Olá, me chamo Maycon Wisley</h1>
-<h3 align="center">Possuo um conhecimento intermediário em C# e SQL Server</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayconwisley&label=Profile%20views&color=0e75b6&style=flat" alt="mayconwisley" /> </p>
 
